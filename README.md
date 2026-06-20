@@ -1,9 +1,10 @@
-# 📊 Dashboard RAIS - Indicadores de Vínculos Empregatícios
+<img width="1809" height="1017" alt="image" src="https://github.com/user-attachments/assets/8bc4f38e-1e0f-4418-a002-32b5cac5da9c" /># 📊 Dashboard RAIS - Indicadores de Vínculos Empregatícios
 
 Este repositório contém um dashboard desenvolvido em Power BI para análise de dados governamentais da Relação Anual de Informações Sociais (RAIS). O objetivo do projeto é mapear o cenário de vínculos trabalhistas (ativos e CLT) e explorar as características socioeconômicas e demográficas da região.
 
 ## 📸 Prévia do Dashboard
-*(Adicione aqui um ou dois prints de tela do seu dashboard funcionando)*
+*<img width="1809" height="1017" alt="image" src="https://github.com/user-attachments/assets/0040ef12-7da8-4036-96dd-20a01890ad2f" /><img width="1820" height="1034" alt="image" src="https://github.com/user-attachments/assets/3273de66-2ed3-49fe-9578-551fb6b9e529" />
+*
 
 ## 💡 Por que este arquivo está no formato `.pbit`?
 Devido ao alto volume de dados processados neste projeto (a base original possui cerca de 2GB e milhões de linhas), este repositório utiliza o formato **Power BI Template (.pbit)**. 
